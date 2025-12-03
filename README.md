@@ -8,3 +8,10 @@ This is a Vue.js project that previews and purchase cooking masterclass courses.
 - npm (comes with Node.js)
 
 ## Installation
+
+$ git clone https://github.com/marcofisher21-svg/vue.js-checkout-simulation.git
+cd vue.js-checkout-simulation/checkout/vue-project
+
+npm install
+
+npm run dev
